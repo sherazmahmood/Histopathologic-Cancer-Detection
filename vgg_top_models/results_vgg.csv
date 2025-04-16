@@ -1,0 +1,55 @@
+conv_blocks,filters_start,dense_units,dropout_rate,val_accuracy,val_loss,recall,f1_score,conf_matrix,model_path,train_time_sec
+4,8,64,0.5,0.882786036,0.316609919,0.84957639,0.859730305,"[[23922  2260]
+ [ 2681 15142]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f8_d64_dr50.h5,2487.54875
+4,8,128,0.5,0.896398127,0.272766441,0.854569938,0.872711646,"[[24331  1851]
+ [ 2592 15231]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f8_d128_dr50.h5,2052.637733
+4,8,256,0.5,0.893739343,0.298825026,0.819839533,0.861429624,"[[24692  1490]
+ [ 3211 14612]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f8_d256_dr50.h5,2498.975683
+4,8,512,0.5,0.897875249,0.274820387,0.888627055,0.881382342,"[[23904  2278]
+ [ 1985 15838]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f8_d512_dr50.h5,2094.143225
+4,16,64,0.5,0.908260405,0.240398973,0.856982551,0.885603293,"[[24785  1397]
+ [ 2549 15274]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f16_d64_dr50.h5,1968.057507
+4,16,128,0.5,0.906260669,0.334461778,0.863490995,0.887415309,"[[24710  1472]
+ [ 2433 15390]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f16_d128_dr50.h5,2220.609721
+4,16,256,0.5,0.900761306,0.317195505,0.877742243,0.886873211,"[[24370  1812]
+ [ 2179 15644]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f16_d256_dr50.h5,1849.412371
+4,16,512,0.5,0.911350965,0.277189046,0.904842058,0.890871427,"[[23927  2255]
+ [ 1696 16127]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f16_d512_dr50.h5,1851.153573
+4,32,64,0.5,0.919168293,0.23468709,0.87841553,0.895498484,"[[24695  1487]
+ [ 2167 15656]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f32_d64_dr50.h5,1387.475806
+4,32,128,0.5,0.919463694,0.224473804,0.898838579,0.897252793,"[[24316  1866]
+ [ 1803 16020]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f32_d128_dr50.h5,1881.445203
+4,32,256,0.5,0.912873566,0.273459554,0.854008865,0.889960826,"[[25020  1162]
+ [ 2602 15221]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f32_d256_dr50.h5,1751.431162
+4,32,512,0.5,0.923576891,0.257849485,0.895584357,0.904721419,"[[24681  1501]
+ [ 1861 15962]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f32_d512_dr50.h5,1882.29619
+4,64,64,0.5,0.594977856,0.674998581,0,0,"[[26182     0]
+ [17823     0]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f64_d64_dr50.h5,779.9611311
+4,64,128,0.5,0.594977856,0.674995422,0,0,"[[26182     0]
+ [17823     0]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f64_d128_dr50.h5,902.0413551
+4,64,256,0.5,0.594977856,0.675011992,0,0,"[[26182     0]
+ [17823     0]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f64_d256_dr50.h5,1023.571255
+4,64,512,0.5,0.594977856,0.675004303,0,0,"[[26182     0]
+ [17823     0]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f64_d512_dr50.h5,1147.426621
+5,8,64,0.5,0.88419497,0.318079144,0.840991977,0.862651434,"[[24243  1939]
+ [ 2834 14989]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb5_f8_d64_dr50.h5,2260.956599
+5,8,128,0.5,0.897352576,0.270577759,0.854233294,0.873043179,"[[24352  1830]
+ [ 2598 15225]]",/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb5_f8_d128_dr50.h5,2256.2739114,8,64,0.5,0.882786036,0.316609919,0.84957639,0.859730305,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f8_d64_dr50.h5,2487.54875
+4,8,128,0.5,0.896398127,0.272766441,0.854569938,0.872711646,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f8_d128_dr50.h5,2052.637733
+4,8,256,0.5,0.893739343,0.298825026,0.819839533,0.861429624,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f8_d256_dr50.h5,2498.975683
+4,8,512,0.5,0.897875249,0.274820387,0.888627055,0.881382342,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f8_d512_dr50.h5,2094.143225
+4,16,64,0.5,0.908260405,0.240398973,0.856982551,0.885603293,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f16_d64_dr50.h5,1968.057507
+4,16,128,0.5,0.906260669,0.334461778,0.863490995,0.887415309,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f16_d128_dr50.h5,2220.609721
+4,16,256,0.5,0.900761306,0.317195505,0.877742243,0.886873211,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f16_d256_dr50.h5,1849.412371
+4,16,512,0.5,0.911350965,0.277189046,0.904842058,0.890871427,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f16_d512_dr50.h5,1851.153573
+4,32,64,0.5,0.919168293,0.23468709,0.87841553,0.895498484,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f32_d64_dr50.h5,1387.475806
+4,32,128,0.5,0.919463694,0.224473804,0.898838579,0.897252793,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f32_d128_dr50.h5,1881.445203
+4,32,256,0.5,0.912873566,0.273459554,0.854008865,0.889960826,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f32_d256_dr50.h5,1751.431162
+4,32,512,0.5,0.923576891,0.257849485,0.895584357,0.904721419,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f32_d512_dr50.h5,1882.29619
+4,64,64,0.5,0.594977856,0.674998581,0.0,0.0,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f64_d64_dr50.h5,779.9611311
+4,64,128,0.5,0.594977856,0.674995422,0.0,0.0,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f64_d128_dr50.h5,902.0413551
+4,64,256,0.5,0.594977856,0.675011992,0.0,0.0,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f64_d256_dr50.h5,1023.571255
+4,64,512,0.5,0.594977856,0.675004303,0.0,0.0,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb4_f64_d512_dr50.h5,1147.426621
+5,8,64,0.5,0.88419497,0.318079144,0.840991977,0.862651434,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb5_f8_d64_dr50.h5,2260.956599
+5,8,128,0.5,0.897352576,0.270577759,0.854233294,0.873043179,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb5_f8_d128_dr50.h5,2256.273911
+5,8,256,0.5,0.8931939601898193,0.27876365184783936,0.8496886046120182,0.8640876412187607,/content/drive/MyDrive/CU/Deep Learning Projects/vgg_top_models/vgg_cb5_f8_d256_dr50.h5,1806.812355518341
