@@ -39,7 +39,7 @@ The objective of this mini-project was to:
 
 ---
 
-## ⚙Models
+## Models
 
 ### ResNet
 - Custom residual blocks with variable depth `(2, 2, 2)`, `(3, 4, 6)`, etc.
